@@ -201,3 +201,173 @@ row_6.appendChild(row_6_data_3);
 row_6.appendChild(row_6_data_4);
 row_6.appendChild(row_6_data_5);
 tbody.appendChild(row_6);
+
+let row_7 = document.createElement('tr');
+let row_7_data_1 = document.createElement('td');
+row_7_data_1.innerHTML = '6.';
+let row_7_data_2 = document.createElement('td');
+row_7_data_2.innerHTML = 'Dola';
+let row_7_data_3 = document.createElement('td');
+row_7_data_3.innerHTML = '241';
+let row_7_data_4 = document.createElement('td');
+value.push(90);
+row_7_data_4.innerHTML = value[0];
+let row_7_data_5 = document.createElement('td');
+if (value[0] >= 80) {
+  row_7_data_5.innerHTML = 'A';
+} else if (value[0] >= 70 && value[0] < 80) {
+  row_7_data_5.innerHTML = 'AB';
+} else if (value[0] >= 60 && value[0] < 70) {
+  row_7_data_5.innerHTML = 'B';
+} else if (value[0] >= 50 && value[0] < 60) {
+  row_7_data_5.innerHTML = 'BC';
+} else if (value[0] >= 40 && value[0] < 50) {
+  row_7_data_5.innerHTML = 'C';
+} else if (value[0] >= 10 && value[0] < 40) {
+  row_7_data_5.innerHTML = 'D';
+} else if (value[0] < 10) {
+  row_7_data_5.innerHTML = 'E';
+}
+
+row_7.appendChild(row_7_data_1);
+row_7.appendChild(row_7_data_2);
+row_7.appendChild(row_7_data_3);
+row_7.appendChild(row_7_data_4);
+row_7.appendChild(row_7_data_5);
+tbody.appendChild(row_7);
+
+let row_8 = document.createElement('tr');
+let row_8_data_1 = document.createElement('td');
+row_8_data_1.innerHTML = '7.';
+let row_8_data_2 = document.createElement('td');
+row_8_data_2.innerHTML = 'Dila';
+let row_8_data_3 = document.createElement('td');
+row_8_data_3.innerHTML = '242';
+let row_8_data_4 = document.createElement('td');
+value.push(90);
+row_8_data_4.innerHTML = value[0];
+let row_8_data_5 = document.createElement('td');
+if (value[0] >= 80) {
+  row_8_data_5.innerHTML = 'A';
+} else if (value[0] >= 70 && value[0] < 80) {
+  row_8_data_5.innerHTML = 'AB';
+} else if (value[0] >= 60 && value[0] < 70) {
+  row_8_data_5.innerHTML = 'B';
+} else if (value[0] >= 50 && value[0] < 60) {
+  row_8_data_5.innerHTML = 'BC';
+} else if (value[0] >= 40 && value[0] < 50) {
+  row_8_data_5.innerHTML = 'C';
+} else if (value[0] >= 10 && value[0] < 40) {
+  row_8_data_5.innerHTML = 'D';
+} else if (value[0] < 10) {
+  row_8_data_5.innerHTML = 'E';
+}
+
+row_8.appendChild(row_8_data_1);
+row_8.appendChild(row_8_data_2);
+row_8.appendChild(row_8_data_3);
+row_8.appendChild(row_8_data_4);
+row_8.appendChild(row_8_data_5);
+tbody.appendChild(row_8);
+
+let row_9 = document.createElement('tr');
+let row_9_data_1 = document.createElement('td');
+row_9_data_1.innerHTML = '8.';
+let row_9_data_2 = document.createElement('td');
+row_9_data_2.innerHTML = 'Dela';
+let row_9_data_3 = document.createElement('td');
+row_9_data_3.innerHTML = '243';
+let row_9_data_4 = document.createElement('td');
+value.push(90);
+row_9_data_4.innerHTML = value[0];
+let row_9_data_5 = document.createElement('td');
+if (value[0] >= 5) {
+  row_9_data_5.innerHTML = 'A';
+} else if (value[0] >= 70 && value[0] < 80) {
+  row_9_data_5.innerHTML = 'AB';
+} else if (value[0] >= 60 && value[0] < 70) {
+  row_9_data_5.innerHTML = 'B';
+} else if (value[0] >= 50 && value[0] < 60) {
+  row_9_data_5.innerHTML = 'BC';
+} else if (value[0] >= 40 && value[0] < 50) {
+  row_9_data_5.innerHTML = 'C';
+} else if (value[0] >= 10 && value[0] < 40) {
+  row_9_data_5.innerHTML = 'D';
+} else if (value[0] < 10) {
+  row_9_data_5.innerHTML = 'E';
+}
+
+row_9.appendChild(row_9_data_1);
+row_9.appendChild(row_9_data_2);
+row_9.appendChild(row_9_data_3);
+row_9.appendChild(row_9_data_4);
+row_9.appendChild(row_9_data_5);
+tbody.appendChild(row_9);
+
+let row_10 = document.createElement('tr');
+let row_10_data_1 = document.createElement('td');
+row_10_data_1.innerHTML = '9.';
+let row_10_data_2 = document.createElement('td');
+row_10_data_2.innerHTML = 'Dona';
+let row_10_data_3 = document.createElement('td');
+row_10_data_3.innerHTML = '244';
+let row_10_data_4 = document.createElement('td');
+value.push(20);
+row_10_data_4.innerHTML = value[0];
+let row_10_data_5 = document.createElement('td');
+if (value[0] >= 80) {
+  row_10_data_5.innerHTML = 'A';
+} else if (value[0] >= 70 && value[0] < 80) {
+  row_10_data_5.innerHTML = 'AB';
+} else if (value[0] >= 60 && value[0] < 70) {
+  row_10_data_5.innerHTML = 'B';
+} else if (value[0] >= 50 && value[0] < 60) {
+  row_10_data_5.innerHTML = 'BC';
+} else if (value[0] >= 40 && value[0] < 50) {
+  row_10_data_5.innerHTML = 'C';
+} else if (value[0] >= 10 && value[0] < 40) {
+  row_10_data_5.innerHTML = 'D';
+} else if (value[0] < 10) {
+  row_10_data_5.innerHTML = 'E';
+}
+
+row_10.appendChild(row_10_data_1);
+row_10.appendChild(row_10_data_2);
+row_10.appendChild(row_10_data_3);
+row_10.appendChild(row_10_data_4);
+row_10.appendChild(row_10_data_5);
+tbody.appendChild(row_10);
+
+let row_11 = document.createElement('tr');
+let row_11_data_1 = document.createElement('td');
+row_11_data_1.innerHTML = '10.';
+let row_11_data_2 = document.createElement('td');
+row_11_data_2.innerHTML = 'Dina';
+let row_11_data_3 = document.createElement('td');
+row_11_data_3.innerHTML = '245';
+let row_11_data_4 = document.createElement('td');
+value.push(0);
+row_11_data_4.innerHTML = value[0];
+let row_11_data_5 = document.createElement('td');
+if (value[0] >= 80) {
+  row_11_data_5.innerHTML = 'A';
+} else if (value[0] >= 70 && value[0] < 80) {
+  row_11_data_5.innerHTML = 'AB';
+} else if (value[0] >= 60 && value[0] < 70) {
+  row_11_data_5.innerHTML = 'B';
+} else if (value[0] >= 50 && value[0] < 60) {
+  row_11_data_5.innerHTML = 'BC';
+} else if (value[0] >= 40 && value[0] < 50) {
+  row_11_data_5.innerHTML = 'C';
+} else if (value[0] >= 10 && value[0] < 40) {
+  row_11_data_5.innerHTML = 'D';
+} else if (value[0] < 10) {
+  row_11_data_5.innerHTML = 'E';
+}
+
+row_11.appendChild(row_11_data_1);
+row_11.appendChild(row_11_data_2);
+row_11.appendChild(row_11_data_3);
+row_11.appendChild(row_11_data_4);
+row_11.appendChild(row_11_data_5);
+tbody.appendChild(row_11);
