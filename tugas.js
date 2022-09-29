@@ -312,7 +312,7 @@ row_10_data_2.innerHTML = 'Dona';
 let row_10_data_3 = document.createElement('td');
 row_10_data_3.innerHTML = '244';
 let row_10_data_4 = document.createElement('td');
-value.push(10);
+value.push(9);
 row_10_data_4.innerHTML = value[0];
 let row_10_data_5 = document.createElement('td');
 if (value[0] >= 80) {
