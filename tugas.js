@@ -244,7 +244,7 @@ row_8_data_2.innerHTML = 'Dila';
 let row_8_data_3 = document.createElement('td');
 row_8_data_3.innerHTML = '242';
 let row_8_data_4 = document.createElement('td');
-value.push(90);
+value.push(30);
 row_8_data_4.innerHTML = value[0];
 let row_8_data_5 = document.createElement('td');
 if (value[0] >= 80) {
@@ -278,7 +278,7 @@ row_9_data_2.innerHTML = 'Dela';
 let row_9_data_3 = document.createElement('td');
 row_9_data_3.innerHTML = '243';
 let row_9_data_4 = document.createElement('td');
-value.push(90);
+value.push(20);
 row_9_data_4.innerHTML = value[0];
 let row_9_data_5 = document.createElement('td');
 if (value[0] >= 5) {
@@ -312,7 +312,7 @@ row_10_data_2.innerHTML = 'Dona';
 let row_10_data_3 = document.createElement('td');
 row_10_data_3.innerHTML = '244';
 let row_10_data_4 = document.createElement('td');
-value.push(20);
+value.push(10);
 row_10_data_4.innerHTML = value[0];
 let row_10_data_5 = document.createElement('td');
 if (value[0] >= 80) {
